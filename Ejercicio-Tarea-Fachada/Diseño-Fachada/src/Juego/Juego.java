@@ -1,3 +1,4 @@
+package Juego;
 public class Juego {
     private JuegoFachada fachada;
     public Juego(){
